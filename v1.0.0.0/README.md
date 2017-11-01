@@ -1,0 +1,1 @@
+The file is password protected to restrict unauthorized users. This is the first version developed for private use for a single party. It is not yet released as open source for common public use. In order to use this product, you need to acquire a licence from the developer.
